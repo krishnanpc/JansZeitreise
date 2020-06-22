@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/2D SpritePack/Demo/Scene/DemoScene.unity
+    guid: 430eb470cc4db714aac4b5c0dfd50dd2
+  - enabled: 0
+    path: Assets/Underwater Diving/Scenes/scene-1.unity
+    guid: e08243922417842828467f43d5971f1e
+  - enabled: 1
+    path: Assets/StartScene.unity
+    guid: 1a88748b199f34c1c84df915d52542e0
+  - enabled: 1
+    path: Assets/Level2-Era2.unity
+    guid: f14c0edbfe860499e80467fcd218c6bc
+  - enabled: 1
+    path: Assets/Level1-Era1.unity
+    guid: 349d34a8822c948b6b38302b5c4e935f
+  - enabled: 1
+    path: Assets/Level3-Era3.unity
+    guid: c15d7a8a4555d4a6bb5581782793070c
+  - enabled: 1
+    path: Assets/EpilogueScene.unity
+    guid: 1c17227f7a9154d7f858551c1e904078
+  m_configObjects: {}
